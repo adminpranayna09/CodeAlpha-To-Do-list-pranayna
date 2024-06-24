@@ -1,2 +1,3 @@
-# CodeAlpha-To-Do-list-pranayna
-it is To-Do list program, i have used are HTML,CSS,JAVASCRIPT languages.
+to-do list program
+this is my first Git Repository. Author- Pranayna Pardhi
+
