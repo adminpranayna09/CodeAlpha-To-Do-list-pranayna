@@ -1,3 +1,5 @@
-to-do list program
-this is my first Git Repository. Author- Pranayna Pardhi
+#To- Do List Program
+this is my first Git Repository.
+<br>
+Author- Pranayna Pardhi.
 
